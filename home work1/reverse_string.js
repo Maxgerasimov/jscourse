@@ -1,6 +1,2 @@
-function solution(str){
-    return str.split("").reverse().join("");
-
-}
-//git config -- user.email "maxgerasimov159753@gmail.com"
-// //git config -- user.name "Maksym Herasymov"
+let i = 0;
+while (++i < 5) alert( i );
